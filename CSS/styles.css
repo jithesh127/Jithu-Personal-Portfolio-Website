@@ -1,0 +1,7 @@
+.banner{
+    background-image: url(../images/nature.jpg);
+    background-size: cover;
+    padding: 200px 0;
+    background-repeat: no-repeat;
+    color: black;
+}
