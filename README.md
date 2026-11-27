@@ -1,39 +1,29 @@
 # Personal Portfolio Website
 
-## About the Project
+A personal portfolio website presenting my introduction, education, technical skills, projects, and contact information.
 
-This is my personal portfolio website developed using HTML, CSS, and Bootstrap. It showcases my personal information, educational background, technical skills, and contact details.
-
-## Technologies Used
-
-- HTML5
-- CSS
-
-## Features
-
-- Responsive Navigation Bar
-- Home Section with Personal Introduction
-- About Me Section
-- Technical Skills Section
-- Contact Form
-- WhatsApp Contact Button
-- Responsive Website Design
+## Built With
+HTML5 · CSS · Bootstrap
 
 ## Website Sections
+- Home and introduction
+- About and education
+- Technical skills
+- Contact section
 
-1. Home
-2. About Me
-3. Skills
-4. Contact
+## Features
+- Responsive navigation
+- Responsive page layout
+- Contact form interface
+- WhatsApp contact button
 
-## Project Purpose
+## Run Locally
+1. Clone or download this repository.
+2. Open the project folder.
+3. Open the HTML entry page in your browser.
 
-The main purpose of this project is to create a personal online portfolio to showcase my technical skills, projects, and professional profile.
+## Purpose
+A portfolio project for presenting my work and practicing responsive frontend development.
 
-## Developed By
-
-**Jithesh D**
-
-## Contact
-
-- WhatsApp: Available through the website
+---
+Developed by **Jithesh D** · [GitHub](https://github.com/jithesh127)
